@@ -9,14 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gabrieldarezzo/mongodb-sample.git"
+    "url": "https://github.com/CaiqueRamos/APIusers.git"
   },
-  "author": "Gabriel Darezzo <darezzo.gabriel@gmail.com> (https://inwork.com.br/)",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gabrieldarezzo/mongodb-sample/issues"
-  },
-  "homepage": "https://github.com/gabrieldarezzo/mongodb-sample#readme",
+  "author": "Caique Ramos(https://caiqueramos.github.io/MyRepository/), Fabio naka",
+  "license": "ISC", 
   "dependencies": {
     "express": "^4.17.1",
     "mysql2": "^1.7.0",
